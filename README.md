@@ -10,7 +10,7 @@ This repository (, Wiki and Issies) are related to **Siegfried**
 
 
 ## Team ##
-* [Domenik Thönnes](@modkin)
+* [Dominik Thönnes](@modkin)
 * [Stefan Bader]()
 * [Andreas Schäfer](@gentryx)
 * [Christopher Bross](@Titzi90)
