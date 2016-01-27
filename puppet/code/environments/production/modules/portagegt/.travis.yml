@@ -1,0 +1,24 @@
+language: ruby
+rvm:
+  - 1.9.3
+  - 2.0.0
+  - 2.1.5
+  # - 2.2.0
+  - ruby-head
+
+script:
+  - bundle exec rspec --color --format documentation
+
+env:
+  - PUPPET_VERSION="~> 3.5.1"
+  - PUPPET_VERSION="~> 3.6.2"
+  - PUPPET_VERSION="~> 3.7.3"
+
+matrix:
+  allow_failures:
+    # - rvm: 2.2.0
+    - rvm: ruby-head
+
+  # exclude:
+  #   - rvm: 2.2.0
+  #     env: PUPPET_VERSION="~> 3.5.0"
