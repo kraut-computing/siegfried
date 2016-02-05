@@ -1,0 +1,39 @@
+#+TITLE: Student Cluster Competition
+#+AUTHOR: SuperComputing Conference 2016
+#+EMAIL: Salt Lake City, Utah
+#+LANGUAGE: de
+#+OPTIONS: toc:nil
+* Auf einen Blick
+*Wir suchen ein Team für die SCC*
+- Student Cluster Competition (SCC) ist ein Wettbewerb auf der SuperComputing Conference im November 2016 in Amerika
+- Ziel: Computer-Cluster aufsetzen und wissenschaftliche Probleme lösen
+- Ein Team besteht aus 6 Mitgliedern und einem Betreuer
+- Vorraussetzungen: Keine
+* Was hab ich davon:
+- Tieferer Einblick in die Funktionsweise von Linux
+- Kennenlernen von Software die im realen Leben verwendet wird
+- Teilnahme an der größten Konferenz im Bereich High Performance Computing
+- Kennenlernen vieler interessanter und wichtiger Personen der HPC Szene
+- Jede Menge Spaß und Reise in den USA
+* Über uns
+- Wir heißt: Christopher, Dominik und Julian
+- Haben 2013 und 2014 an der SCC teilgenommen
+- Möchten ein Team finden das wir als Betreuer unterstützen können
+* Mehr Details
+Ein Überblick wie die Vorbereitung und die Konferenz abläuft
+** Vorbereitung
+1. *Team finden und Bewerbung schreiben* dabei könnt ihr von unserer Erfahrung profitieren
+2. *Sponsor finden* auch hier haben wir bereits Erfahrung und Ansprechpartner
+3. *Cluster aufsetzen* Es gibt ein Test System vom Wettbewerb 2013 auf dem ihr bereits vorher üben könnt
+4. *Mit Anwendungen auseinandersetzen* Jedes Jahr gibt es vier verschiedene Anwendungen die auf dem Wettbewerb benutzt werden
+** Während des Wettbewerbs
+1. Anreise und Aufbau findet normalerweise am Samstag vor der Konferenz statt (dieses Jahr am 12. November)
+2. Bis Montag Zeit den Cluster zum laufen zu bringen und Probleme zu fixen (Es wird Probleme geben :-) )
+3. Am Montag Nachmittag wird eine spezielle Benchmark Software ausgeführt, welche die absolute Leistung des Clusters messen soll (LINPACK)
+4. Ab Montag Abend sind 48 Stunden Zeit um möglichst viele der gegebenen Aufgaben mit Hilfe der Anwendungen zu lösen (wenig Schlaf in dieser Zeit)
+5. Mittwoch Nachmittag wird der Wettbewerb beendet und Donnerstag die Gewinner bekannt gegeben
+** Zwischen durch
+- Während der gesamten Zeit gibt es viele Möglichkeiten die Konferenz zu erleben
+- Große Ausstellung, Tutorials, Workshops, Social Events
+- Praktisch jeden Abend gibt es eine Party im Rahmen der Konferenz
+* Impressionen der letzten Jahre
