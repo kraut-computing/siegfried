@@ -1,39 +1,163 @@
 #+TITLE: Student Cluster Competition
-#+AUTHOR: SuperComputing Conference 2016
-#+EMAIL: Salt Lake City, Utah
+#+AUTHOR: SC16 Salt Lake City
+#+EMAIL:
+#+REVEAL_TITLE_SLIDE_BACKGROUND: ./SCimages/w/bgt.jpg
+#+REVEAL_THEME: blood
 #+LANGUAGE: de
-#+OPTIONS: toc:nil
+#+OPTIONS: toc:nil num:nil
+#+REVEAL_MARGIN: 0
 * Auf einen Blick
+:PROPERTIES:
+:reveal_background: ./SCimages/w/1.jpg
+:END:
+
 *Wir suchen ein Team für die SCC*
 - Student Cluster Competition (SCC) ist ein Wettbewerb auf der SuperComputing Conference im November 2016 in Amerika
 - Ziel: Computer-Cluster aufsetzen und wissenschaftliche Probleme lösen
 - Ein Team besteht aus 6 Mitgliedern und einem Betreuer
-- Vorraussetzungen: Keine
+- Vorraussetzungen: noch kein Bachelor Abschluss
 * Was hab ich davon:
-- Tieferer Einblick in die Funktionsweise von Linux
-- Kennenlernen von Software die im realen Leben verwendet wird
+:PROPERTIES:
+:reveal_background: ./SCimages/w/1.jpg
+:END:
+
 - Teilnahme an der größten Konferenz im Bereich High Performance Computing
-- Kennenlernen vieler interessanter und wichtiger Personen der HPC Szene
+- Kennenlernen von Software, die im realen Leben verwendet wird
+- Kontakt mit interessanten Personen der HPC Szene
+- Einblick in die Funktionsweise von Supercomputern
+  - vorraussichtlich mit neuester Hardware
 - Jede Menge Spaß und Reise in den USA
-* Über uns
-- Wir heißt: Christopher, Dominik und Julian
-- Haben 2013 und 2014 an der SCC teilgenommen
-- Möchten ein Team finden das wir als Betreuer unterstützen können
+  - gute Chance das die Flüge bezahlt werden
+* Wer sind wir?
+:PROPERTIES:
+:reveal_background: ./SCimages/w/1.jpg
+:END:
+
+- *Alexander und Johannes*
+  - Mitarbeiter am Lehrstuhl 3
+- *Christopher und Dominik*
+  - Haben 2013 und 2014 an der SCC teilgenommen
+- Wir möchten ein Team finden, das wir als Betreuer unterstützen können
 * Mehr Details
-Ein Überblick wie die Vorbereitung und die Konferenz abläuft
-** Vorbereitung
+:PROPERTIES:
+:reveal_background: ./SCimages/w/1.jpg
+:END:
+
+Ein Überblick, wie die Vorbereitung und die Konferenz abläuft
+* Vorbereitung
+  :PROPERTIES:
+  :reveal_background: ./SCimages/w/1.jpg
+  :END:
+
 1. *Team finden und Bewerbung schreiben* dabei könnt ihr von unserer Erfahrung profitieren
 2. *Sponsor finden* auch hier haben wir bereits Erfahrung und Ansprechpartner
-3. *Cluster aufsetzen* Es gibt ein Test System vom Wettbewerb 2013 auf dem ihr bereits vorher üben könnt
+3. *Cluster aufsetzen* Es gibt ein Test System vom Wettbewerb 2013, auf dem ihr bereits vorher üben könnt
 4. *Mit Anwendungen auseinandersetzen* Jedes Jahr gibt es vier verschiedene Anwendungen die auf dem Wettbewerb benutzt werden
-** Während des Wettbewerbs
+* Der Wettbewerb
+  :PROPERTIES:
+  :reveal_background: ./SCimages/w/1.jpg
+  :END:
+
+
 1. Anreise und Aufbau findet normalerweise am Samstag vor der Konferenz statt (dieses Jahr am 12. November)
 2. Bis Montag Zeit den Cluster zum laufen zu bringen und Probleme zu fixen (Es wird Probleme geben :-) )
 3. Am Montag Nachmittag wird eine spezielle Benchmark Software ausgeführt, welche die absolute Leistung des Clusters messen soll (LINPACK)
 4. Ab Montag Abend sind 48 Stunden Zeit um möglichst viele der gegebenen Aufgaben mit Hilfe der Anwendungen zu lösen (wenig Schlaf in dieser Zeit)
 5. Mittwoch Nachmittag wird der Wettbewerb beendet und Donnerstag die Gewinner bekannt gegeben
-** Zwischen durch
+
+* Diesjährige Anwendungen
+  :PROPERTIES:
+  :reveal_background: ./SCimages/w/1.jpg
+  :END:
+
+- Linpack, HPCG
+  - populäre Benchmarks für HPC Systeme
+- Paraview
+  - Standard Software für Daten Visualisierung
+- ParConnect
+  - Reproduzieren von Wissenschaftlichen Ergebnissen
+- Passwörter Knacken
+  - freie Auswahl der Software (auch eigene möglich)
+
+* Zwischendurch
+  :PROPERTIES:
+  :reveal_background: ./SCimages/w/1.jpg
+  :END:
+
 - Während der gesamten Zeit gibt es viele Möglichkeiten die Konferenz zu erleben
 - Große Ausstellung, Tutorials, Workshops, Social Events
 - Praktisch jeden Abend gibt es eine Party im Rahmen der Konferenz
+
 * Impressionen der letzten Jahre
+:PROPERTIES:
+:reveal_background: ./SCimages/w/1.jpg
+:END:
+
+* Unser Team 2013
+  :PROPERTIES:
+  :reveal_background: ./SCimages/w/1.jpg
+  :END:
+
+[[./SCimages/w/img-1.jpg]]
+* Unser Lebensraum
+  :PROPERTIES:
+  :reveal_background: ./SCimages/w/1.jpg
+  :END:
+
+[[./SCimages/w/img-4.jpg]]
+* Inklusive Couch
+  :PROPERTIES:
+  :reveal_background: ./SCimages/w/1.jpg
+  :END:
+
+[[./SCimages/w/img-2.jpg]]
+* Bei der Arbeit
+  :PROPERTIES:
+  :reveal_background: ./SCimages/w/1.jpg
+  :END:
+
+[[./SCimages/w/img-8.jpg]]
+* Die anderen Teams
+  :PROPERTIES:
+  :reveal_background: ./SCimages/w/1.jpg
+  :END:
+
+[[./SCimages/w/img-7.jpg]]
+* Party im Stadion
+  :PROPERTIES:
+  :reveal_background: ./SCimages/w/1.jpg
+  :END:
+
+[[./SCimages/w/img-3.jpg]]
+* Mit leckerem Essen
+  :PROPERTIES:
+  :reveal_background: ./SCimages/w/1.jpg
+  :END:
+
+[[./SCimages/w/img-5.jpg]]
+* Gute Unterhaltung
+  :PROPERTIES:
+  :reveal_background: ./SCimages/w/1.jpg
+  :END:
+
+[[./SCimages/w/img-10.jpg]]
+* Links
+:PROPERTIES:
+:reveal_background: ./SCimages/w/1.jpg
+:END:
+
+- [[https://www.youtube.com/watch?v=1gAM2L84gSo][Video über die Competition]]
+- [[http://www.studentclustercompetition.us/index.html][Offizielle Seite der Student Cluster Competition]]
+- [[http://sc16.supercomputing.org/studentssc/student-cluster-competition/][Offizielle Seite der Supercomputing Conference]]
+- [[http://www.studentclustercompetition.us/2016/SC16Flyer.pdf][Flyer]]
+
+
+* Noch Fragen?
+:PROPERTIES:
+:reveal_background: ./SCimages/w/bg.jpg
+:END:
+
+*Kommt einfach vorbei oder schreibt eine Mail an*
+#+BEGIN_HTML
+<a href="mailto:supercomputingpraktikum@faui36a.informatik.uni-erlangen.de">supercomputingpraktikum@faui36a.informatik.uni-erlangen.de</a>
+#+END_HTML
