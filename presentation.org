@@ -1,14 +1,14 @@
 #+TITLE: Student Cluster Competition
 #+AUTHOR: SC16 Salt Lake City
 #+EMAIL:
-#+REVEAL_TITLE_SLIDE_BACKGROUND: ./SCimages/w/bgt.jpg
+#+REVEAL_TITLE_SLIDE_BACKGROUND: ./img/bgt.jpg
 #+REVEAL_THEME: blood
 #+LANGUAGE: de
 #+OPTIONS: toc:nil num:nil
 #+REVEAL_MARGIN: 0
 * Auf einen Blick
 :PROPERTIES:
-:reveal_background: ./SCimages/w/1.jpg
+:reveal_background: ./img/bg.jpg
 :END:
 
 *Wir suchen ein Team für die SCC*
@@ -18,7 +18,7 @@
 - Vorraussetzungen: noch kein Bachelor Abschluss
 * Was hab ich davon:
 :PROPERTIES:
-:reveal_background: ./SCimages/w/1.jpg
+:reveal_background: ./img/bg.jpg
 :END:
 
 - Teilnahme an der größten Konferenz im Bereich High Performance Computing
@@ -30,7 +30,7 @@
   - gute Chance das die Flüge bezahlt werden
 * Wer sind wir?
 :PROPERTIES:
-:reveal_background: ./SCimages/w/1.jpg
+:reveal_background: ./img/bg.jpg
 :END:
 
 - *Alexander und Johannes*
@@ -40,13 +40,13 @@
 - Wir möchten ein Team finden, das wir als Betreuer unterstützen können
 * Mehr Details
 :PROPERTIES:
-:reveal_background: ./SCimages/w/1.jpg
+:reveal_background: ./img/bg.jpg
 :END:
 
 Ein Überblick, wie die Vorbereitung und die Konferenz abläuft
 * Vorbereitung
   :PROPERTIES:
-  :reveal_background: ./SCimages/w/1.jpg
+  :reveal_background: ./img/bg.jpg
   :END:
 
 1. *Team finden und Bewerbung schreiben* dabei könnt ihr von unserer Erfahrung profitieren
@@ -55,7 +55,7 @@ Ein Überblick, wie die Vorbereitung und die Konferenz abläuft
 4. *Mit Anwendungen auseinandersetzen* Jedes Jahr gibt es vier verschiedene Anwendungen die auf dem Wettbewerb benutzt werden
 * Der Wettbewerb
   :PROPERTIES:
-  :reveal_background: ./SCimages/w/1.jpg
+  :reveal_background: ./img/bg.jpg
   :END:
 
 
@@ -67,7 +67,7 @@ Ein Überblick, wie die Vorbereitung und die Konferenz abläuft
 
 * Diesjährige Anwendungen
   :PROPERTIES:
-  :reveal_background: ./SCimages/w/1.jpg
+  :reveal_background: ./img/bg.jpg
   :END:
 
 - Linpack, HPCG
@@ -81,7 +81,7 @@ Ein Überblick, wie die Vorbereitung und die Konferenz abläuft
 
 * Zwischendurch
   :PROPERTIES:
-  :reveal_background: ./SCimages/w/1.jpg
+  :reveal_background: ./img/bg.jpg
   :END:
 
 - Während der gesamten Zeit gibt es viele Möglichkeiten die Konferenz zu erleben
@@ -90,60 +90,66 @@ Ein Überblick, wie die Vorbereitung und die Konferenz abläuft
 
 * Impressionen der letzten Jahre
 :PROPERTIES:
-:reveal_background: ./SCimages/w/1.jpg
+:reveal_background: ./img/bg.jpg
 :END:
 
 * Unser Team 2013
   :PROPERTIES:
-  :reveal_background: ./SCimages/w/1.jpg
+  :reveal_background: ./img/bg.jpg
   :END:
 
-[[./SCimages/w/img-1.jpg]]
+[[./img/img-1.jpg]]
 * Unser Lebensraum
   :PROPERTIES:
-  :reveal_background: ./SCimages/w/1.jpg
+  :reveal_background: ./img/bg.jpg
   :END:
 
-[[./SCimages/w/img-4.jpg]]
+[[./img/img-4.jpg]]
 * Inklusive Couch
   :PROPERTIES:
-  :reveal_background: ./SCimages/w/1.jpg
+  :reveal_background: ./img/bg.jpg
   :END:
 
-[[./SCimages/w/img-2.jpg]]
+[[./img/img-2.jpg]]
 * Bei der Arbeit
   :PROPERTIES:
-  :reveal_background: ./SCimages/w/1.jpg
+  :reveal_background: ./img/bg.jpg
   :END:
 
-[[./SCimages/w/img-8.jpg]]
+[[./img/img-8.jpg]]
 * Die anderen Teams
   :PROPERTIES:
-  :reveal_background: ./SCimages/w/1.jpg
+  :reveal_background: ./img/bg.jpg
   :END:
+[[./img/img-7.jpg]]
 
-[[./SCimages/w/img-7.jpg]]
+* Die Konferenz
+  :PROPERTIES:
+  :reveal_background: ./img/bg.jpg
+  :END:
+[[./img/img-6.jpg]]
+
 * Party im Stadion
   :PROPERTIES:
-  :reveal_background: ./SCimages/w/1.jpg
+  :reveal_background: ./img/bg.jpg
   :END:
 
-[[./SCimages/w/img-3.jpg]]
+[[./img/img-3.jpg]]
 * Mit leckerem Essen
   :PROPERTIES:
-  :reveal_background: ./SCimages/w/1.jpg
+  :reveal_background: ./img/bg.jpg
   :END:
 
-[[./SCimages/w/img-5.jpg]]
+[[./img/img-5.jpg]]
 * Gute Unterhaltung
   :PROPERTIES:
-  :reveal_background: ./SCimages/w/1.jpg
+  :reveal_background: ./img/bg.jpg
   :END:
 
-[[./SCimages/w/img-10.jpg]]
+[[./img/img-10.jpg]]
 * Links
 :PROPERTIES:
-:reveal_background: ./SCimages/w/1.jpg
+:reveal_background: ./img/bg.jpg
 :END:
 
 - [[https://www.youtube.com/watch?v=1gAM2L84gSo][Video über die Competition]]
@@ -154,7 +160,7 @@ Ein Überblick, wie die Vorbereitung und die Konferenz abläuft
 
 * Noch Fragen?
 :PROPERTIES:
-:reveal_background: ./SCimages/w/bg.jpg
+:reveal_background: ./img/bg2.jpg
 :END:
 
 *Kommt einfach vorbei oder schreibt eine Mail an*
